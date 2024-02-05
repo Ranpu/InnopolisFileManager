@@ -10,3 +10,4 @@
 8. [looking for](./08_looking_for/)
 9. [parser](./09_parser/)
 10. [ip checker](./10_ip_checker/)
+11. [inventory managment](./11_inventory_managment/)

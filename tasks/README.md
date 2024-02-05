@@ -12,3 +12,4 @@
 10. [ip checker](./10_ip_checker/)
 11. [inventory managment](./11_inventory_managment/)
 12. [check credentials](./12_check_credentials/)
+13. [file manager](./13_file_manager/)
